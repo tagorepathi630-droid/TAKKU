@@ -1,3 +1,5 @@
 a=10
 if a<5;
    print("it is a positive number")
+elif a>5:
+   print("it is a negative number")
